@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924423525593",
+    "project_id": "data-base-lecture-d8703",
+    "storage_bucket": "data-base-lecture-d8703.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924423525593:android:83c1d99f1f2aa8bd7d9ac8",
+        "android_client_info": {
+          "package_name": "com.example.day16database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvo35tE9boGykCJyzLDmvLuBKO--4vgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
